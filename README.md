@@ -77,3 +77,4 @@
   ✨ *Thanks for visiting my profile!*  
   💻 *Always building. Always learning.*  
 </p>
+![Snake animation](https://github.com/sajad-akbari/sajad-akbari/blob/output/github-contribution-grid-snake.svg)
